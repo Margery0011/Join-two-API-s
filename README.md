@@ -1,5 +1,11 @@
 # trgn510_homework5A
 
+## About the homework
+
+This program will join two API's to show a final output of number of hospital beds and Covid mortality in each county of the United States.
+
+## Built with Jupyter lab
+
 ## Dependency 
 
 [API](https://api.covid19api.com/countries)
@@ -21,3 +27,7 @@
 `import seaborn as sns`
 
 `import matplotlib.pylot as plt`
+
+## Contact 
+
+Feel free to contact me if you have any question. [email](yutianl@usc.edu)
