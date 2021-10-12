@@ -30,4 +30,4 @@ This program will join two API's to show a final output of number of hospital be
 
 ## Contact 
 
-Feel free to contact me if you have any question. [email](yutianl@usc.edu)
+Feel free to contact me if you have any question. **yutianl@usc.edu**
