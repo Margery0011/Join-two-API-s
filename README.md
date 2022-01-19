@@ -1,6 +1,6 @@
 # Join 2 APIs
 
-## About the homework
+## About the project
 
 This program will join two API's to show a final output of number of hospital beds and Covid mortality in each county of the United States.
 
